@@ -1,0 +1,9 @@
+User-agent: * Allow: /
+Allow: /archives/
+Disallow: /vendors/
+Disallow: /categories/
+Disallow: /download/
+
+
+Sitemap: https://www.lxking.cn/sitemap.xml
+Sitemap: https://www.lxking.cn/baidusitemap.xml
